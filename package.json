@@ -1,0 +1,6 @@
+{
+  "name": "agent-vera-generador-de-recetas-saludable-morodlr0",
+  "version": "1.0.0",
+  "description": "Proyecto de Vera [Gen15]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
